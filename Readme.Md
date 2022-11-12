@@ -14,7 +14,7 @@
 
 - the users.csv file will be created with 10 users
 
-- (id,FirstName,LastName,Username,Email,Avatar,Gender,Dob,Address
+- Output (id,FirstName,LastName,Username,Email,Avatar,Gender,Dob,Address
 
 4360,Dorsey,Labadie,dorsey.labadie,dorsey.labadie@email.com,<https://robohash.org/fugiatillonisi.png?size=300x300&set=set1,Genderfluid,2004-03-23,South> Kermitmouth
 
@@ -78,6 +78,6 @@
 
 - The user with a matching id is displayed
 
-- Example 
-    - Enter id of user: 420
-    - Output: ['420', 'Arlena', 'Olson', 'arlena.olson', 'arlena.olson@email.com', 'https://robohash.org/sintesseerror.png?size=300x300&set=set1', 'Genderfluid', '2003-05-15', 'South Kyle']
+- Example
+  - Enter id of user: 420
+  - Output: ['420', 'Arlena', 'Olson', 'arlena.olson', 'arlena.olson@email.com', 'https://robohash.org/sintesseerror.png?size=300x300&set=set1', 'Genderfluid', '2003-05-15', 'South Kyle']
